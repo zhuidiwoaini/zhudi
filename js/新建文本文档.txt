@@ -1,0 +1,56 @@
+
+
+	$('.a2').mouseenter(function() {
+	$('.header3_2>.a2>div:animated').stop().hide();
+	$('.header3_2>.a2>div').slideDown();
+});
+	$('.a2').mouseleave(function() {
+	$('.header3_2>.a2>div').slideUp();
+});	
+
+
+	$('.a3').mouseenter(function() {
+	$('.header3_2>.a3>div:animated').stop().hide();
+	$('.header3_2>.a3>div').slideDown();
+
+});
+	$('.a3').mouseleave(function() {
+	$('.header3_2>.a3>div').slideUp();
+});	
+
+
+	$('.a4').mouseenter(function() {
+	$('.header3_2>.a4>div:animated').stop().hide();
+	$('.header3_2>.a4>div').slideDown();
+
+});
+	$('.a4').mouseleave(function() {
+	$('.header3_2>.a4>div').slideUp();
+});	
+
+
+	$('.a5').mouseenter(function() {
+	$('.header3_2>.a5>div:animated').stop().hide();
+	$('.header3_2>.a5>div').slideDown();
+});
+	$('.a5').mouseleave(function() {
+	$('.header3_2>.a5>div').slideUp();
+});	
+
+
+	$('.a6').mouseenter(function() {
+	$('.header3_2>.a6>div:animated').stop().hide();
+	$('.header3_2>.a6>div').slideDown();
+});
+	$('.a6').mouseleave(function() {
+	$('.header3_2>.a6>div').slideUp();
+});	
+
+
+	$('.a7').mouseenter(function() {
+	$('.header3_2>.a7>div:animated').stop().hide();
+	$('.header3_2>.a7>div').slideDown();
+});
+	$('.a7').mouseleave(function() {
+	$('.header3_2>.a7>div').slideUp();
+});	
